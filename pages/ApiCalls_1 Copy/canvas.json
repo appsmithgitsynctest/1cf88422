@@ -150,7 +150,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "ApiCalls_1 Copy_get_data",
               "name": "get_data",
               "confirmBeforeExecute": false,
               "pluginType": "API",
